@@ -5,14 +5,15 @@ this is  feature-a branch
 The newly added line
 
 
- added 
+
 This a simple line for testing git push
 
-this 
-is
-added 
-for 
-fun
+I added new correct lines
+
+A good developer added a correct works
+
+This a simple line for testing git push
+
 
 def print_sum():
 print (a*a)
